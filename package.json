@@ -1,7 +1,7 @@
 {
-  "name": "tileify-ags-proxy",
+  "name": "catodb-proxy",
   "version": "0.0.1",
-  "description": "Fetch slippy map tiles from an uncached ArcGIS Server map",
+  "description": "Fetch slippy map tiles from CartoDB without using cartodb.js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,22 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/JasonSanford/tileify-ags-proxy.git"
+    "url": "git://github.com/JasonSanford/catodb-proxy.git"
   },
   "keywords": [
-    "arcgis",
-    "server",
+    "cartodb",
     "tiles",
     "proxy"
   ],
   "author": "Jason Sanford",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JasonSanford/tileify-ags-proxy/issues"
+    "url": "https://github.com/JasonSanford/catodb-proxy/issues"
   },
-  "homepage": "https://github.com/JasonSanford/tileify-ags-proxy",
+  "homepage": "https://github.com/JasonSanford/catodb-proxy",
   "dependencies": {
-    "tileify-ags": "~1.0.0",
     "express": "~4.9.8",
     "request": "~2.46.0"
   }

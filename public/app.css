@@ -39,3 +39,11 @@ html, body {
 .params .param-value {
   float: right;
 }
+
+#cartodb_json {
+  height: 200px;
+}
+
+#proxy_url_template {
+  height: 150px;
+}

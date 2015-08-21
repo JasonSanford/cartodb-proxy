@@ -1,6 +1,6 @@
 {
-  "name": "Tileify AGS Proxy",
-  "description": "Fetch slippy map tiles from ArcGIS Server",
-  "website": "https://github.com/JasonSanford/tileify-ags-proxy",
-  "repository": "https://github.com/JasonSanford/tileify-ags-proxy"
+  "name": "CartoDB Proxy",
+  "description": "Fetch slippy map tiles from CartoDB without using cartodb.js",
+  "website": "https://github.com/JasonSanford/cartodb-proxy",
+  "repository": "https://github.com/JasonSanford/cartodb-proxy"
 }
